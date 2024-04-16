@@ -1,0 +1,87 @@
+{
+  "logo": "logo.png",
+  "logoUrl": "/",
+  "logoAlt": "logo",
+  "nav_list": [
+    {
+      "id": 1,
+      "title": "Home",
+      "url": ""
+    },
+    {
+      "id": 2,
+      "title": "Architecture",
+      "url": ""
+    },
+    {
+      "id": 3,
+      "title": "Interiors",
+      "url": ""
+    },
+    {
+      "id": 4,
+      "title": "Renovation",
+      "url": ""
+    },
+    {
+      "id": 5,
+      "title": "About Us",
+      "url": "",
+      "sub_nav": [
+        {
+          "id": 1,
+          "title": "Who We Are",
+          "url": ""
+        },
+        {
+          "id": 2,
+          "title": "What We Do",
+          "url": ""
+        },
+        {
+          "id": 2,
+          "title": "Location",
+          "url": "",
+          "sub_nav": [
+            {
+              "id": 1,
+              "title": "Panchkula",
+              "url": ""
+            },
+            {
+              "id": 2,
+              "title": "Chandigarh",
+              "url": ""
+            },
+            {
+              "id": 3,
+              "title": "Mohali",
+              "url": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "title": "Contact Us",
+      "url": "",
+      "sub_nav": [
+        {
+          "id": 1,
+          "title": "Contact",
+          "url": ""
+        },
+        {
+          "id": 2,
+          "title": "Work with us",
+          "url": ""
+        }
+      ]
+    }
+  ],
+  "book_a_call": {
+    "title": "Book a Call",
+    "url": "tel:918264418757"
+  }
+}
